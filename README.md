@@ -1,3 +1,3 @@
 # Epidya
 
-This file will be filled soon.
+Ce fichier sera complété ultérieurement.
